@@ -1,0 +1,7 @@
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+.wff-validator/
+Orange-Pulse-Watch-2R.apk

@@ -1,0 +1,49 @@
+name: Build Orange Pulse APK
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Orange Pulse
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+      - name: Install Android SDK packages
+        run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
+      - name: Check out the Watch Face Format validator
+        uses: actions/checkout@v4
+        with:
+          repository: google/watchface
+          ref: d1cdafa953c95d5554fc54df4bc3948befbefc4d
+          path: .wff-validator
+          persist-credentials: false
+      - name: Validate Watch Face Format v1
+        run: |
+          ./gradlew -p .wff-validator/third_party/wff :specification:validator:executable-jar
+          java -jar .wff-validator/third_party/wff/specification/validator/build/libs/wff-validator.jar 1 app/src/main/res/raw/watchface.xml
+      - name: Build and verify the debug APK
+        run: |
+          ./gradlew :app:assembleDebug
+          cp app/build/outputs/apk/debug/app-debug.apk Orange-Pulse-Watch-2R.apk
+          "${ANDROID_HOME}/build-tools/35.0.0/apksigner" verify Orange-Pulse-Watch-2R.apk
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Orange-Pulse-Watch-2R
+          path: Orange-Pulse-Watch-2R.apk
+          if-no-files-found: error

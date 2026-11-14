@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WatchFace width="466" height="466">
+    <Metadata key="CLOCK_TYPE" value="DIGITAL" />
+    <Metadata key="PREVIEW_TIME" value="10:08:36" />
+    <Scene backgroundColor="#000000">
+        <PartDraw x="0" y="0" width="466" height="466">
+            <Variant mode="AMBIENT" target="alpha" value="0" />
+            <Ellipse x="12" y="12" width="442" height="442">
+                <Stroke color="#21150E" thickness="2" />
+            </Ellipse>
+            <Line startX="233.00" startY="26.00" endX="233.00" endY="14.00">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="255.37" startY="20.17" endX="255.89" endY="15.20">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="277.49" startY="23.68" endX="278.53" endY="18.79">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="299.13" startY="29.47" endX="300.67" endY="24.72">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="320.04" startY="37.50" endX="322.08" endY="32.93">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="336.50" startY="53.73" endX="342.50" endY="43.34">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="358.79" startY="59.87" endX="361.72" endY="55.83">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="376.19" startY="73.97" endX="379.54" endY="70.25">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="392.03" startY="89.81" endX="395.75" endY="86.46">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="406.13" startY="107.21" endX="410.17" endY="104.28">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="412.27" startY="129.50" endX="422.66" endY="123.50">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="428.50" startY="145.96" endX="433.07" endY="143.92">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="436.53" startY="166.87" endX="441.28" endY="165.33">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="442.32" startY="188.51" endX="447.21" endY="187.47">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="445.83" startY="210.63" endX="450.80" endY="210.11">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="440.00" startY="233.00" endX="452.00" endY="233.00">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="445.83" startY="255.37" endX="450.80" endY="255.89">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="442.32" startY="277.49" endX="447.21" endY="278.53">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="436.53" startY="299.13" endX="441.28" endY="300.67">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="428.50" startY="320.04" endX="433.07" endY="322.08">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="412.27" startY="336.50" endX="422.66" endY="342.50">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="406.13" startY="358.79" endX="410.17" endY="361.72">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="392.03" startY="376.19" endX="395.75" endY="379.54">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="376.19" startY="392.03" endX="379.54" endY="395.75">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="358.79" startY="406.13" endX="361.72" endY="410.17">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="336.50" startY="412.27" endX="342.50" endY="422.66">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="320.04" startY="428.50" endX="322.08" endY="433.07">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="299.13" startY="436.53" endX="300.67" endY="441.28">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="277.49" startY="442.32" endX="278.53" endY="447.21">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="255.37" startY="445.83" endX="255.89" endY="450.80">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="233.00" startY="440.00" endX="233.00" endY="452.00">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="210.63" startY="445.83" endX="210.11" endY="450.80">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="188.51" startY="442.32" endX="187.47" endY="447.21">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="166.87" startY="436.53" endX="165.33" endY="441.28">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="145.96" startY="428.50" endX="143.92" endY="433.07">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="129.50" startY="412.27" endX="123.50" endY="422.66">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="107.21" startY="406.13" endX="104.28" endY="410.17">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="89.81" startY="392.03" endX="86.46" endY="395.75">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="73.97" startY="376.19" endX="70.25" endY="379.54">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="59.87" startY="358.79" endX="55.83" endY="361.72">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="53.73" startY="336.50" endX="43.34" endY="342.50">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="37.50" startY="320.04" endX="32.93" endY="322.08">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="29.47" startY="299.13" endX="24.72" endY="300.67">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="23.68" startY="277.49" endX="18.79" endY="278.53">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="20.17" startY="255.37" endX="15.20" endY="255.89">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="26.00" startY="233.00" endX="14.00" endY="233.00">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="20.17" startY="210.63" endX="15.20" endY="210.11">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="23.68" startY="188.51" endX="18.79" endY="187.47">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="29.47" startY="166.87" endX="24.72" endY="165.33">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="37.50" startY="145.96" endX="32.93" endY="143.92">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="53.73" startY="129.50" endX="43.34" endY="123.50">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="59.87" startY="107.21" endX="55.83" endY="104.28">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="73.97" startY="89.81" endX="70.25" endY="86.46">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="89.81" startY="73.97" endX="86.46" endY="70.25">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="107.21" startY="59.87" endX="104.28" endY="55.83">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="129.50" startY="53.73" endX="123.50" endY="43.34">
+                <Stroke color="#FFA329" thickness="4" />
+            </Line>
+            <Line startX="145.96" startY="37.50" endX="143.92" endY="32.93">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="166.87" startY="29.47" endX="165.33" endY="24.72">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="188.51" startY="23.68" endX="187.47" endY="18.79">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Line startX="210.63" startY="20.17" endX="210.11" endY="15.20">
+                <Stroke color="#594033" thickness="1.5" />
+            </Line>
+            <Arc centerX="233" centerY="233" width="402" height="402" startAngle="38" endAngle="67">
+                <Stroke color="#FFA329" thickness="6" cap="ROUND" />
+            </Arc>
+            <Arc centerX="233" centerY="233" width="402" height="402" startAngle="92" endAngle="137">
+                <Stroke color="#D96A14" thickness="6" cap="ROUND" />
+            </Arc>
+            <Arc centerX="233" centerY="233" width="402" height="402" startAngle="252" endAngle="289">
+                <Stroke color="#D96A14" thickness="6" cap="ROUND" />
+            </Arc>
+            <Arc centerX="233" centerY="233" width="402" height="402" startAngle="304" endAngle="329">
+                <Stroke color="#783910" thickness="6" cap="ROUND" />
+            </Arc>
+        </PartDraw>
+        <PartText x="115" y="54" width="236" height="26">
+            <Text align="CENTER">
+                <Font family="SYNC_TO_DEVICE" size="19" color="#FFA329" weight="BOLD">ORANGE PULSE</Font>
+            </Text>
+            <Variant mode="AMBIENT" target="alpha" value="0" />
+        </PartText>
+        <PartText x="78" y="91" width="310" height="34">
+            <Text align="CENTER">
+                <Font family="SYNC_TO_DEVICE" size="25" color="#E5BFA2" weight="MEDIUM">
+                    <Template>%s, %d %s<Parameter expression="[DAY_OF_WEEK_S]" />
+                        <Parameter expression="[DAY]" />
+                        <Parameter expression="[MONTH_S]" />
+                    </Template>
+                </Font>
+            </Text>
+            <Variant mode="AMBIENT" target="alpha" value="0" />
+        </PartText>
+        <DigitalClock x="33" y="126" width="392" height="100">
+            <TimeText x="0" y="0" width="164" height="100" format="hh" align="END">
+                <Variant mode="AMBIENT" target="alpha" value="125" />
+                <Font family="SYNC_TO_DEVICE" size="97" color="#FFF5ED" slant="ITALIC" weight="BLACK" />
+            </TimeText>
+            <TimeText x="186" y="0" width="155" height="100" format="mm" align="START">
+                <Variant mode="AMBIENT" target="alpha" value="125" />
+                <Font family="SYNC_TO_DEVICE" size="97" color="#FFA329" slant="ITALIC" weight="BLACK" />
+            </TimeText>
+            <TimeText x="341" y="34" width="51" height="56" format="ss" align="CENTER">
+                <Variant mode="AMBIENT" target="alpha" value="0" />
+                <Font family="SYNC_TO_DEVICE" size="32" color="#E5BFA2" slant="ITALIC" weight="BLACK" />
+            </TimeText>
+        </DigitalClock>
+        <PartText x="185" y="125" width="43" height="100">
+            <Text align="CENTER">
+                <Font family="SYNC_TO_DEVICE" size="77" color="#FFF5ED" weight="BOLD">:</Font>
+            </Text>
+            <Variant mode="AMBIENT" target="alpha" value="125" />
+        </PartText>
+        <ComplicationSlot slotId="1" displayName="@string/battery" x="56" y="236" width="104" height="104" supportedTypes="SHORT_TEXT" isCustomizable="FALSE">
+            <BoundingOval x="0" y="0" width="104" height="104" />
+            <DefaultProviderPolicy defaultSystemProvider="WATCH_BATTERY" defaultSystemProviderType="SHORT_TEXT" />
+            <Variant mode="AMBIENT" target="alpha" value="0" />
+            <Complication type="SHORT_TEXT">
+                <PartDraw x="0" y="0" width="104" height="104">
+                    <Ellipse x="6" y="6" width="92" height="92">
+                        <Stroke color="#3B2718" thickness="6" />
+                    </Ellipse>
+                    <Arc centerX="52" centerY="52" width="92" height="92" startAngle="0" endAngle="0">
+                        <Transform target="endAngle" value="clamp([BATTERY_PERCENT] * 3.6, 0.01, 359.99)" />
+                        <Stroke color="#FFA329" thickness="6" cap="ROUND" />
+                    </Arc>
+                    <RoundRectangle x="41" y="22" width="20" height="11" cornerRadiusX="2" cornerRadiusY="2">
+                        <Fill color="#000000" />
+                        <Stroke color="#FFA329" thickness="1.5" />
+                    </RoundRectangle>
+                    <RoundRectangle x="44" y="25" width="14" height="5" cornerRadiusX="1" cornerRadiusY="1">
+                        <Fill color="#FFA329" />
+                    </RoundRectangle>
+                    <RoundRectangle x="62" y="25" width="2" height="5" cornerRadiusX="1" cornerRadiusY="1">
+                        <Fill color="#FFA329" />
+                    </RoundRectangle>
+                </PartDraw>
+                <PartText x="8" y="34" width="88" height="45">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="28" color="#FFF5ED" weight="BOLD">
+                            <Template>%d%%<Parameter expression="[BATTERY_PERCENT]" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+            </Complication>
+        </ComplicationSlot>
+        <ComplicationSlot slotId="2" displayName="@string/steps" x="109" y="348" width="248" height="66" supportedTypes="SHORT_TEXT" isCustomizable="FALSE">
+            <BoundingBox x="0" y="0" width="248" height="66" />
+            <DefaultProviderPolicy defaultSystemProvider="STEP_COUNT" defaultSystemProviderType="SHORT_TEXT" />
+            <Variant mode="AMBIENT" target="alpha" value="0" />
+            <Complication type="SHORT_TEXT">
+                <PartDraw x="0" y="0" width="248" height="66">
+                    <RoundRectangle x="1" y="1" width="246" height="64" cornerRadiusX="29" cornerRadiusY="29">
+                        <Fill color="#1B120C" />
+                        <Stroke color="#8E4A19" thickness="1.5" />
+                    </RoundRectangle>
+                    <RoundRectangle x="23" y="37" width="202" height="6" cornerRadiusX="3" cornerRadiusY="3">
+                        <Fill color="#503321" />
+                    </RoundRectangle>
+                    <RoundRectangle x="23" y="37" width="1" height="6" cornerRadiusX="3" cornerRadiusY="3">
+                        <Transform target="width" value="clamp([STEP_PERCENT] * 2.02, 0.1, 202)" />
+                        <Fill color="#FFA329" />
+                    </RoundRectangle>
+                </PartDraw>
+                <PartText x="10" y="5" width="228" height="31">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="25" color="#FFF5ED" weight="BOLD">
+                            <Template>%,d steps<Parameter expression="[STEP_COUNT]" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+                <PartText x="14" y="45" width="220" height="17">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="14" color="#E5BFA2" weight="NORMAL">
+                            <Template>Goal %,d<Parameter expression="[STEP_GOAL]" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+            </Complication>
+        </ComplicationSlot>
+        <ComplicationSlot slotId="3" displayName="@string/heart_rate" x="306" y="236" width="104" height="104" supportedTypes="SHORT_TEXT EMPTY">
+            <BoundingOval x="0" y="0" width="104" height="104" />
+            <DefaultProviderPolicy defaultSystemProvider="EMPTY" defaultSystemProviderType="EMPTY" />
+            <Variant mode="AMBIENT" target="alpha" value="0" />
+            <Complication type="SHORT_TEXT">
+                <PartDraw x="0" y="0" width="104" height="104">
+                    <Ellipse x="6" y="6" width="92" height="92">
+                        <Stroke color="#422322" thickness="6" />
+                    </Ellipse>
+                    <Arc centerX="52" centerY="52" width="92" height="92" startAngle="2" endAngle="118">
+                        <Stroke color="#FF534F" thickness="6" cap="ROUND" />
+                    </Arc>
+                </PartDraw>
+                <PartText x="28" y="15" width="48" height="28">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="25" color="#FF534F" weight="BOLD">♥</Font>
+                    </Text>
+                </PartText>
+                <PartText x="8" y="38" width="88" height="48">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="22" color="#FFF5ED" weight="BOLD">
+                            <Template>%s<Parameter expression="[COMPLICATION.TEXT]" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+            </Complication>
+            <Complication type="EMPTY">
+                <PartDraw x="0" y="0" width="104" height="104">
+                    <Ellipse x="6" y="6" width="92" height="92">
+                        <Stroke color="#422322" thickness="6" />
+                    </Ellipse>
+                    <Arc centerX="52" centerY="52" width="92" height="92" startAngle="2" endAngle="118">
+                        <Stroke color="#FF534F" thickness="6" cap="ROUND" />
+                    </Arc>
+                </PartDraw>
+                <PartText x="28" y="15" width="48" height="28">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="25" color="#FF534F" weight="BOLD">♥</Font>
+                    </Text>
+                </PartText>
+                <PartText x="8" y="40" width="88" height="36">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="30" color="#FFF5ED" weight="BOLD">
+                            <Template>%s<Parameter expression="[HEART_RATE] &gt; 0 ? numberFormat('#', [HEART_RATE]) : '–'" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+                <PartText x="13" y="74" width="78" height="18">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="15" color="#E5BFA2" weight="NORMAL">bpm</Font>
+                    </Text>
+                </PartText>
+            </Complication>
+        </ComplicationSlot>
+        <ComplicationSlot slotId="4" displayName="@string/weather" x="163" y="237" width="140" height="104" supportedTypes="SHORT_TEXT LONG_TEXT EMPTY">
+            <BoundingBox x="0" y="0" width="140" height="104" />
+            <DefaultProviderPolicy defaultSystemProvider="EMPTY" defaultSystemProviderType="EMPTY" />
+            <Variant mode="AMBIENT" target="alpha" value="0" />
+            <Complication type="SHORT_TEXT">
+                <PartText x="6" y="4" width="128" height="25">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="14" color="#FFA329" weight="BOLD">WEATHER</Font>
+                    </Text>
+                </PartText>
+                <PartText x="1" y="29" width="138" height="45">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="28" color="#FFF5ED" weight="BOLD">
+                            <Template>%s<Parameter expression="[COMPLICATION.TEXT]" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+                <PartText x="3" y="75" width="134" height="20">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="15" color="#E5BFA2" weight="NORMAL">
+                            <Template>%s<Parameter expression="[COMPLICATION.TITLE]" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+            </Complication>
+            <Complication type="LONG_TEXT">
+                <PartText x="6" y="4" width="128" height="25">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="14" color="#FFA329" weight="BOLD">WEATHER</Font>
+                    </Text>
+                </PartText>
+                <PartText x="1" y="29" width="138" height="45">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="19" color="#FFF5ED" weight="BOLD">
+                            <Template>%s<Parameter expression="[COMPLICATION.TEXT]" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+                <PartText x="3" y="75" width="134" height="20">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="15" color="#E5BFA2" weight="NORMAL">
+                            <Template>%s<Parameter expression="[COMPLICATION.TITLE]" />
+                            </Template>
+                        </Font>
+                    </Text>
+                </PartText>
+            </Complication>
+            <Complication type="EMPTY">
+                <PartText x="6" y="4" width="128" height="25">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="14" color="#FFA329" weight="BOLD">WEATHER</Font>
+                    </Text>
+                </PartText>
+                <PartText x="2" y="34" width="136" height="44">
+                    <Text align="CENTER">
+                        <Font family="SYNC_TO_DEVICE" size="19" color="#E5BFA2" weight="NORMAL">Choose source</Font>
+                    </Text>
+                </PartText>
+            </Complication>
+        </ComplicationSlot>
+    </Scene>
+</WatchFace>

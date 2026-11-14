@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="watch_face_name">Orange Pulse</string>
+    <string name="battery">Battery</string>
+    <string name="steps">Steps</string>
+    <string name="heart_rate">Heart rate</string>
+    <string name="weather">Weather</string>
+</resources>
